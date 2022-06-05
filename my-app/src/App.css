@@ -1,0 +1,11 @@
+.App  {
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  margin-top:8rem;
+}
+
+.two{
+  margin-right:3.6rem;
+}
